@@ -1,0 +1,9 @@
+{
+  "name": "electron-discord",
+  "version": "1.0.0",
+  "description": "electron app to interface with discord api",
+  "main": "",
+  "repository": "https://github.com/RoBlockHead/electron-discord",
+  "author": "RoBlockHead",
+  "license": "MIT"
+}
